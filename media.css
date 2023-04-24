@@ -1,0 +1,8 @@
+@media(max-width: 460px) {
+    .inputs {
+        display: inline;
+    }
+    .submit, .submitOut {
+        font-size: 10px;
+    }
+}
